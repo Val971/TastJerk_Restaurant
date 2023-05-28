@@ -20,7 +20,7 @@ const Home = () => {
         title="Welcome to the ultimate Caribbean food experience!"
         subTitle="Meals Near You."
         description="Indulge in the flavors and spices of the tropics with our mouth-watering selection of Caribbean cuisine. From succulent jerk chicken to refreshing coconut-infused dishes, our menu is a fusion of cultures and flavors that will transport you straight to the islands."
-        buttonUrl=""
+        buttonUrl="/"
         buttonText="Order Now"
         watchVideoButtonText="Meet The Chefs"
         heroImageUrl={heroImg}
